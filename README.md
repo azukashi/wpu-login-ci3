@@ -2,7 +2,7 @@
     <img src="https://cdn.upload.systems/uploads/R0qZHQM3.png" alt="CodeIgniter" style="float: left; margin: 0 10px 0 0; pointer-events: none;" align="left" height="150" width="150">
 </a>
 
-## 🌐 WPU Login CI3
+## 🔥 WPU Login CI3
 
 Login & Dashboard Page with CodeIgniter 3
 
