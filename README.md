@@ -6,7 +6,7 @@
 
 Login & Dashboard Page with CodeIgniter 3
 
-![CodeIgniter Version](https://img.shields.io/badge/CodeIgniter-v3.1.10-%23EF4223?style=for-the-badge&logo=codeigniter)
+![CodeIgniter Version](https://img.shields.io/badge/CodeIgniter-v3.1.10-%23EF4223?style=for-the-badge&logo=codeigniter) ![Project License](https://img.shields.io/github/license/gifaldyazkaa/wpu-login-ci3?style=for-the-badge)
 
 ![Admin Dashboard Preview](https://cdn.upload.systems/uploads/D9TsObVa.png)
 
