@@ -39,11 +39,24 @@ $ sudo mkdir /var/www/html/wpu-login-ci3 && sudo cp -rv {wpu-login-ci3/*,wpu-log
 ### 🗂️ Create new database
 
 - Open your phpMyAdmin Page
+
+[![phpMyAdmin Page](https://cdn.upload.systems/uploads/w3S7RC1I.png)](https://i.upload.systems/w3S7RC1I)
+
 - Create a new database named `wpu_login`
+
+[![Create new db](https://cdn.upload.systems/uploads/GrbhFDfQ.png)](https://i.upload.systems/GrbhFDfQ)
+
 - Select `wpu_login` database
 - Go to Import tab
 - Import database SQL File from `wpu_login.sql` (File is included in root folder of this project)
+
+[![Import SQL](https://cdn.upload.systems/uploads/baQk5z70.png)](https://i.upload.systems/baQk5z70)
+
+[![Import Success](https://cdn.upload.systems/uploads/j5SNpnok.png)](https://i.upload.systems/j5SNpnok)
+
 - You're done. You've created a database named `wpu_login`.
+
+[![wpu_login db](https://cdn.upload.systems/uploads/k9DrXyT3.png)](https://i.upload.systems/k9DrXyT3)
 
 ### 🔧 Configuring Database
 
@@ -85,7 +98,7 @@ $ sudo systemctl start apache2
 
 Open up http://localhost/wpu-login-ci3. It should be like this.
 
-[![Login page preview](https://cdn.upload.systems/uploads/vKbgx3t6.png)](https://i.upload.systems/vKbgx3t6)
+[![Login page preview](https://cdn.upload.systems/uploads/zIfKLnyH.png)](https://i.upload.systems/zIfKLnyH)
 
 ### 👤 Login with this Login info
 
@@ -104,6 +117,10 @@ Password : 12345678
 Email : guest@localhost.net
 Password : 12345678
 ```
+
+User at above is already registred at database.
+
+[![User Table](https://cdn.upload.systems/uploads/Lrwjj2MC.png)](https://i.upload.systems/Lrwjj2MC)
 
 ### 🎉 You're done
 
